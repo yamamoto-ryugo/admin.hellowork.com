@@ -1,5 +1,7 @@
 <?php
 
+/* GIT */
+
 $host = "localhost";
 $dbname = "hellowork";
 $user = "root";
